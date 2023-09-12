@@ -70,4 +70,4 @@ if __name__ == '__main__':
     
     setup_training(opt)
     perform_training(opt)
-    //results.show_tensorboard(opt.outputdir, 8 if opt.yolov8 else 5)
+    #results.show_tensorboard(opt.outputdir, 8 if opt.yolov8 else 5)
